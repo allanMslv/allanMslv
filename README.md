@@ -1,4 +1,6 @@
-### Hi there 👋
+Olá! Sou o <b>Allan Melo</b>.
+
+Sou um apaixonado por tecnologia, que depois de atuar por mais de 10 anos na área financeira, resolvi migrar de carreira e comecei a estudar Desenvolvimento Web na Trybe!
 
 <!--
 **allanMslv/allanMslv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
